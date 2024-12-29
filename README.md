@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:98d98e,50:b4e4b1,100:eff5e1&height=220&text=meowfu0's%20github&fontSize=45&fontColor=FFFFFF&width=1000&animation=fadeIn&descAlignY=70)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Vicente+Bercasio+II...;I+am+a+3rd-year+BSIT+student+at+Bicol+University+in+the+Philippines...;Welcome+to+my+introverted+mind!&center=true&width=1000&height=50&color=98d98e&size=25&duration=5000">
+<img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Vicente+Bercasio+II...;I+am+a+3rd-year+BSIT+student+at+Bicol+University...;Welcome+to+my+introverted+mind!&center=true&width=1000&height=50&color=98d98e&size=25&duration=5000">
 
 </div>
 
