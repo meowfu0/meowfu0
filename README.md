@@ -6,19 +6,16 @@
 
 </div>
 
-<p align="justify" style="color: black; font-size: 18px;">
-I am a <span style="color: #98d98e;">third-year BSIT student at Bicol University</span> in the Philippines, a highly motivated and passionate individual with a keen interest in <span style="color: #98d98e;">Machine Learning, Web Development, Mobile Applications, Database Development, and Quality Assurance Testing</span>. I am eager to learn from and collaborate with people here on GitHub as I continue to grow as an aspiring programmer.
+<p align="justify" style="color: black; font-size: 14px;">
+I am a <strong>third-year BSIT student at Bicol University</strong> in the Philippines. I have a keen interest in <strong>Machine Learning, Web Development, Mobile Applications, Database Development, and Quality Assurance Testing</strong>. I am eager to learn from and collaborate with people here on GitHub as I continue to grow as an aspiring programmer. I have worked on various projects alongside my colleagues throughout my academic journey. On this GitHub profile, you will find a collection of my projects and contributions that reflect my enthusiasm for the tech industry.
 </p>
 
-<p align="justify" style="color: black; font-size: 18px;">
-Throughout my academic journey, I have worked on various projects alongside my colleagues. On this GitHub profile, you will find a collection of my projects and contributions that reflect my enthusiasm for the tech industry.
-</p>
-
-<p align="justify" style="color: black; font-size: 18px;">
+<p align="justify" style="color: black; font-size: 14px;">
 Thank you for visiting my profile, and I look forward to connecting with fellow developers and learners.
-</p>
+</p> <br>
 
 ![](https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=98d98e)
+
 
 
 
