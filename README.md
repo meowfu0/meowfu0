@@ -1,4 +1,13 @@
-<h1 align="center">Hi , 👾!</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:98d98e,50:b4e4b1,100:eff5e1&height=220&text=meowfu0's%20github&fontSize=45&fontColor=FFFFFF&width=1000&animation=fadeIn&descAlignY=70)
+
+<img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Vicente+Bercasio+II...;I+am+a+3rd-year+BSIT+student+at+Bicol+University+in+the+Philippines...;Welcome+to+my+introverted+mind!&center=true&width=1000&height=50&color=98d98e&size=25&duration=5000">
+
+</div>
+
+![](https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=98d98e)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vicente-bercasio-ii-88b66028b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicente-bercasio-ii-88b66028b" height="30" width="40" /></a>
