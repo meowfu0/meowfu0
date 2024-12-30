@@ -6,11 +6,11 @@
 
 </div>
 
-<p align="justify" style="color: black; font-size: 14px;">
+<p align="justify" style="color: black; font-size: 13px;">
 I am a <strong>third-year BSIT student at Bicol University</strong> in the Philippines. I have a keen interest in <strong>Machine Learning, Web Development, Mobile Applications, Database Development, and Quality Assurance Testing</strong>. I am eager to learn from and collaborate with people here on GitHub as I continue to grow as an aspiring programmer. I have worked on various projects alongside my colleagues throughout my academic journey. On this GitHub profile, you will find a collection of my projects and contributions that reflect my enthusiasm for the tech industry.
 </p>
 
-<p align="justify" style="color: black; font-size: 14px;">
+<p align="justify" style="color: black; font-size: 13px;">
 Thank you for visiting my profile, and I look forward to connecting with fellow developers and learners.
 </p> <br>
 
