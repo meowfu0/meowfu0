@@ -14,7 +14,7 @@ I am a <strong>third-year BSIT student at Bicol University</strong> in the Phili
 Thank you for visiting my profile, and I look forward to connecting with fellow developers and learners.
 </p> <br>
 
-![](https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=98d98e)
+![](https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=2E8B57)
 
 
 
