@@ -8,10 +8,35 @@
 
 ![](https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=2E8B57)
 
-<br/>
+</div>
+
+---
+
+## 👋 About Me
+
+I’m a **4th-year BSIT student at Bicol University (Main Campus)** and a self-driven developer focused on **web and mobile app development**.  
+I enjoy turning ideas into **simple, reliable solutions** using modern tools, and I’m looking for an **internship / entry-level developer role** where I can contribute, learn from a team, and ship real features.
+
+**📍 Location:** Malinao, Albay • Legazpi City, Albay, Philippines  
+**🎯 Interests:** Frontend Development • Backend Development • Frameworks • HTTP • APIs
+
+---
+
+## 📅 Experiences
+
+| Period | Role | Organization / Event | Notes |
+| --- | --- | --- | --- |
+| **2025-11** | Backend Developer | **Open iT Codefest 2025 (20hrs Hackathon)** | Built **Masid** — a real-time earthquake monitoring & alert platform (Team Snack Overflow). |
+| **2025-12 – 2026-01** | Backend Developer | **1st Naga City Mayoral Hackathon** | Proposed **MyNagAlaga** — a shared infrastructure for MyNaga App with a **verify-once, connected-everywhere** model. |
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
 
 <a href="mailto:vicentetobio00@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-vicentetobio00%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-vicentetobio00%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vicente-bercasio-ii-88b66028b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Bercasio%20II-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,63 +52,41 @@
 
 ---
 
-## 👋 About Me
+## 🚀 Technical Skills
 
-I’m a **4th-year BSIT student at Bicol University (Main Campus)** and a self-driven developer focused on **web and mobile app development**.  
-I enjoy turning ideas into **simple, reliable solutions** using modern tools, and I’m looking for an **internship / entry-level developer role** where I can contribute, learn from a team, and ship real features.
-
-**📍 Location:** Malinao, Albay • Legazpi City, Albay, Philippines  
-**🎯 Interests:** Machine Learning, Web Development, Mobile Apps, Databases, QA Testing
-
----
-
-## 📅 Experiences
-
-| Period | Role | Organization / Event | Notes |
-| --- | --- | --- | --- |
-| **2025-11** | Backend Developer | **Open iT Codefest 2025 (20hrs Hackathon Challenge)** | Built **Masid** — a real-time earthquake monitoring & alert platform (Team Snack Overflow). |
-| **2025-12 – 2026-01** | Backend Developer | **1st Naga City Mayoral Hackathon (Participant)** | Proposed **MyNagAlaga** — a shared infrastructure for MyNaga App to connect social services, barangays, and disaster response under a **verify-once, connected-everywhere** model. |
-
----
-
-## 🤝 Connect with Me
-
-- **Email:** vicentetobio00@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/vicente-bercasio-ii-88b66028b/  
-- **Facebook:** https://web.facebook.com/vicente.bercasioii/  
-- **Instagram:** https://www.instagram.com/vcente_e/  
-
----
-
-## 🚀 Technologies
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C%23%20.NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📚 Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### 🧩 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Developer Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠️ Tools
+![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20(Version%20Control)-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ☁️ Deployment
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -93,29 +96,44 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 
 ## 🌟 Highlight Projects
 
-### 🗺️ e-LegTas: A GIS-Based Evacuation Management Information System
-A GIS-based platform designed to support evacuation management and reporting for **CDRRMO of Legazpi City, Albay**.  
-**Tech used:** React • Node/Express • PostgreSQL • Supabase • Flutter • OpenStreetMap  
-**Repo:** https://github.com/robby-deving/e-LegTas
-
-### 🛒 SiyenSHOP: Integrated E-Commerce Platform (BU College of Science)
-A web-based e-commerce system that lets students browse merchandise from student organizations, add to cart, and track orders.  
-**Repo:** https://github.com/meowfu0/SiyenShop
+> **How to add logos:** Put your project logos inside a folder like `assets/` in your GitHub repo, then use:
+> `![Logo](assets/project-logo.png)`  
+> (Full guide below.)
 
 <div align="center">
 
-<a href="https://github.com/robby-deving/e-LegTas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robby-deving&repo=e-LegTas&theme=transparent&title_color=98d98e&text_color=c9d1d9&icon_color=98d98e&border_color=30363d" width="49%" />
-</a>
-<a href="https://github.com/meowfu0/SiyenShop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowfu0&repo=SiyenShop&theme=transparent&title_color=98d98e&text_color=c9d1d9&icon_color=98d98e&border_color=30363d" width="49%" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ e-LegTas</h3>
+      <!-- Replace the logo path below once you add it -->
+      <img src="YOUR_LOGO_PATH_HERE" width="60" alt="e-LegTas Logo" />
+      <br/><br/>
+      A GIS-based evacuation management system designed to support reporting and coordination for the <b>CDRRMO of Legazpi City, Albay</b>.
+      <br/><br/>
+      <b>Tech:</b> React • Node/Express • PostgreSQL • Supabase • Flutter • OpenStreetMap
+      <br/><br/>
+      <a href="https://github.com/robby-deving/e-LegTas">🔗 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 SiyenSHOP</h3>
+      <!-- Replace the logo path below once you add it -->
+      <img src="YOUR_LOGO_PATH_HERE" width="60" alt="SiyenSHOP Logo" />
+      <br/><br/>
+      A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items, add to cart, and track orders.
+      <br/><br/>
+      <b>Tech:</b> PHP • MySQL • HTML • CSS • JavaScript
+      <br/><br/>
+      <a href="https://github.com/meowfu0/SiyenShop">🔗 Repository</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats (Green/Earth)
+## 📊 GitHub Stats
 
 <div align="center">
 
