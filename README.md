@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:98d98e,50:b4e4b1,100:eff5e1&height=220&text=Vicente%20C.%20Bercasio%20II&fontSize=48&fontColor=FFFFFF&width=1000&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=BSIT%204th-Year%20Student%20@%20Bicol%20University%20(Main%20Campus);Aspiring%20Full-Stack%20%2F%20Mobile%20Developer;Building%20practical%20apps%20with%20clean%20code&center=true&width=1000&height=55&color=98d98e&size=24&duration=3800" />
+<img src="https://readme-typing-svg.demolab.com/?lines=BSIT%204th-Year%20Student%20at%20Bicol%20University%20Main%20Campus;Aspiring%20Full-Stack%20%2F%20Mobile%20Developer;Building%20practical%20apps%20with%20clean%20code&center=true&width=1000&height=55&color=98d98e&size=24&duration=3800" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ## 👋 About Me
 
-I’m a **4th-year BSIT student at Bicol University (Main Campus)** and a self-driven developer focused on **web and mobile app development**.  
+I’m a **4th-year BSIT student at Bicol University Main Campus** and a self-driven developer focused on **web and mobile app development**.  
 I enjoy turning ideas into **simple, reliable solutions** using modern tools, and I’m looking for an **internship / entry-level developer role** where I can contribute, learn from a team, and ship real features.
 
 **📍 Location:** Malinao, Albay • Legazpi City, Albay, Philippines  
@@ -39,17 +39,18 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 
 ## 🎓 Education
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td align="left" width="70%">
+    <td align="left" valign="top" style="padding: 12px 14px;">
       <b>Bicol University (Main Campus)</b><br/>
       Bachelor of Science in Information Technology
     </td>
-    <td align="right" width="30%">
+    <td align="right" valign="top" style="padding: 12px 14px; white-space: nowrap;">
       <b>Aug 2022 – Present</b>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -135,11 +136,14 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
     <!-- e-LegTas -->
     <td width="50%" valign="top" align="center">
       <h3>🗺️ e-LegTas</h3>
-      <img src="assets/elegtas-logo.png" width="180" alt="e-LegTas Logo" />
+      <img src="assets/elegtas-logo.png" width="170" alt="e-LegTas Logo" />
       <br/><br/>
       <p align="center">
         A GIS-based evacuation management system designed to support reporting and coordination for the
         <b>CDRRMO of Legazpi City, Albay</b>.
+      </p>
+      <p align="center">
+        <b>Live:</b> <a href="https://www.e-legtas.tech/" target="_blank" rel="noreferrer">www.e-legtas.tech</a>
       </p>
       <p align="center">
         <b>Tech:</b> React • TypeScript • Redux • Node.js • Express.js • PostgreSQL • Supabase • Flutter • OpenStreetMap
@@ -147,15 +151,24 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
       <a href="https://github.com/robby-deving/e-LegTas" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open e-LegTas Repository" />
       </a>
+      &nbsp;&nbsp;
+      <a href="https://www.e-legtas.tech/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" />
+      </a>
     </td>
     <!-- SiyenSHOP -->
     <td width="50%" valign="top" align="center">
       <h3>🛒 SiyenSHOP</h3>
-      <img src="assets/siyenshop-logo.png" width="220" alt="SiyenSHOP Logo" />
+      <br/><br/>
+      <img src="assets/siyenshop-logo.png" width="229" alt="SiyenSHOP Logo" />
+      <br/><br/>
       <br/><br/>
       <p align="center">
         A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items,
         add to cart, and track orders.
+      </p>
+      <p align="center">
+        <b>Status:</b> Not deployed (local setup)
       </p>
       <p align="center">
         <b>Tech:</b> Laravel • PHP • MySQL • Livewire • Tailwind CSS • JavaScript • Composer • Node.js
@@ -164,6 +177,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
         <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open SiyenSHOP Repository" />
       </a>
     </td>
+
   </tr>
 </table>
 <br/>
@@ -173,7 +187,8 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
     <!-- AliTapTap -->
     <td width="50%" valign="top" align="center">
       <h3>📇 AliTapTap</h3>
-      <img src="assets/logo.svg" width="180" alt="AliTapTap Logo" />
+      <br/>
+      <img src="assets/logo.svg" width="120" alt="AliTapTap Logo" />
       <br/><br/>
       <p align="center">
         A mobile e-commerce app for customizing and purchasing NFC business cards for personal and professional use.
@@ -194,22 +209,29 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
       </a>
     </td>
     <!-- Old Man and the Sea Learning Hub -->
-    <td width="50%" valign="top" align="center">
-      <h3>⛵ Old Man and the Sea – Learning Hub</h3>
-      <!-- ✅ requested: src=logo.png (place logo.png in your repo root OR adjust the path) -->
-      <img src="assets/logo.png" width="180" alt="Old Man and the Sea Logo" />
-      <br/><br/>
-      <p align="center">
-        A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea</b>
-        using cards, quizzes, and simple explanations to make the classic easier and more fun.
-      </p>
-      <p align="center">
-        <b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth
-      </p>
-      <a href="https://github.com/meowfu0/old-man-and-the-sea" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open Old Man and the Sea Repository" />
-      </a>
-    </td>
+<td width="50%" valign="top" align="center">
+  <h3>⛵ Old Man and the Sea – Learning Hub</h3>
+  <img src="assets/logo.png" width="180" alt="Old Man and the Sea Logo" />
+  <br/><br/>
+  <p align="center">
+    A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea</b>
+    using cards, quizzes, and simple explanations to make the classic easier and more fun.
+  </p>
+  <p align="center">
+    <b>Live:</b> <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">old-man-and-the-sea.vercel.app</a>
+  </p>
+  <p align="center">
+    <b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth
+  </p>
+  <a href="https://github.com/meowfu0/old-man-and-the-sea" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open Old Man and the Sea Repository" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" />
+  </a>
+</td>
+
   </tr>
 </table>
 
