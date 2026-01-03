@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:98d98e,50:b4e4b1,100:eff5e1&height=220&text=Vicente%20C.%20Bercasio%20II&fontSize=48&fontColor=FFFFFF&width=1000&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=BSIT%204th-Year%20Student%20at%20Bicol%20University%20Main%20Campus;Aspiring%20Full-Stack%20%2F%20Mobile%20Developer;Building%20practical%20apps%20with%20clean%20code&center=true&width=1000&height=55&color=98d98e&size=24&duration=3800" />
+<img src="https://readme-typing-svg.demolab.com/?lines=BSIT%204th-Year%20Student%20at%20Bicol%20University%20Main%20Campus;Aspiring%20Full-Stack%20%2F%20Mobile%20Developer;Always%20learning%20and%20improving%20step%20by%20step&center=true&width=1000&height=55&color=98d98e&size=24&duration=3800" />
 
 <br/>
 
@@ -29,8 +29,9 @@
 
 ## 👋 About Me
 
-I’m a **4th-year BSIT student at Bicol University Main Campus** and a self-driven developer focused on **web and mobile app development**.  
-I enjoy turning ideas into **simple, reliable solutions** using modern tools, and I’m looking for an **internship / entry-level developer role** where I can contribute, learn from a team, and ship real features.
+I’m a **4th-year BSIT student at Bicol University (Main Campus)** and a self-driven developer focused on **web and mobile app development**.  
+I enjoy turning ideas into **simple, reliable solutions** using modern tools, and I’m excited to join a team where I can **contribute, keep learning, and build real features that help users**.
+
 
 **📍 Location:** Malinao, Albay • Legazpi City, Albay, Philippines  
 **🎯 Interests:** Frontend Development • Backend Development • Frameworks • HTTP • APIs
