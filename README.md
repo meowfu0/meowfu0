@@ -6,7 +6,22 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=2E8B57)
+<img src="https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=2E8B57" alt="Profile views" />
+
+<br/>
+
+<a href="mailto:vicentetobio00@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-vicentetobio00%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/vicente-bercasio-ii-88b66028b/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Bercasio%20II-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://web.facebook.com/vicente.bercasioii/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-vicente.bercasioii-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/vcente_e/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-vcente__e-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
@@ -19,6 +34,22 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 
 **📍 Location:** Malinao, Albay • Legazpi City, Albay, Philippines  
 **🎯 Interests:** Frontend Development • Backend Development • Frameworks • HTTP • APIs
+
+---
+
+## 🎓 Education
+
+<table width="100%">
+  <tr>
+    <td align="left" width="70%">
+      <b>Bicol University (Main Campus)</b><br/>
+      Bachelor of Science in Information Technology
+    </td>
+    <td align="right" width="30%">
+      <b>Aug 2022 – Present</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,17 +66,17 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 
 <div align="center">
 
-<a href="mailto:vicentetobio00@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-vicentetobio00%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:vicentetobio00@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Email-Click%20to%20send%20a%20message-0D1117?style=for-the-badge&logo=gmail&logoColor=98d98e" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/vicente-bercasio-ii-88b66028b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Bercasio%20II-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/vicente-bercasio-ii-88b66028b/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Click%20to%20open%20profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=98d98e" alt="LinkedIn" />
 </a>
-<a href="https://web.facebook.com/vicente.bercasioii/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-vicente.bercasioii-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://web.facebook.com/vicente.bercasioii/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-Click%20to%20open%20profile-0D1117?style=for-the-badge&logo=facebook&logoColor=98d98e" alt="Facebook" />
 </a>
-<a href="https://www.instagram.com/vcente_e/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-vcente__e-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/vcente_e/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-Click%20to%20open%20profile-0D1117?style=for-the-badge&logo=instagram&logoColor=98d98e" alt="Instagram" />
 </a>
 
 </div>
@@ -67,14 +98,14 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 ![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge)
 
 ### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Databases
@@ -96,55 +127,59 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 
 ## 🌟 Highlight Projects
 
-> **How to add logos:** Put your project logos inside a folder like `assets/` in your GitHub repo, then use:
-> `![Logo](assets/project-logo.png)`  
-> (Full guide below.)
-
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🗺️ e-LegTas</h3>
-      <!-- Replace the logo path below once you add it -->
-      <img src="YOUR_LOGO_PATH_HERE" width="60" alt="e-LegTas Logo" />
+      <!-- ✅ bigger logo -->
+      <img src="assets/elegtas-logo.png" width="180" alt="e-LegTas Logo" />
       <br/><br/>
-      A GIS-based evacuation management system designed to support reporting and coordination for the <b>CDRRMO of Legazpi City, Albay</b>.
-      <br/><br/>
-      <b>Tech:</b> React • Node/Express • PostgreSQL • Supabase • Flutter • OpenStreetMap
-      <br/><br/>
-      <a href="https://github.com/robby-deving/e-LegTas">🔗 Repository</a>
+      <p align="center">
+        A GIS-based evacuation management system designed to support reporting and coordination for the
+        <b>CDRRMO of Legazpi City, Albay</b>.
+      </p>
+      <p align="center">
+        <b>Tech:</b> React • TypeScript • Redux • Node.js • Express.js • PostgreSQL • Supabase • OpenStreetMap
+      </p>
+      <a href="https://github.com/robby-deving/e-LegTas" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Click%20to%20open%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open e-LegTas Repository" />
+      </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🛒 SiyenSHOP</h3>
-      <!-- Replace the logo path below once you add it -->
-      <img src="YOUR_LOGO_PATH_HERE" width="60" alt="SiyenSHOP Logo" />
+      <!-- ✅ bigger logo -->  <br/><br/>
+      <img src="assets/siyenshop-logo.png" width="280" alt="SiyenSHOP Logo" />
       <br/><br/>
-      A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items, add to cart, and track orders.
       <br/><br/>
-      <b>Tech:</b> PHP • MySQL • HTML • CSS • JavaScript
-      <br/><br/>
-      <a href="https://github.com/meowfu0/SiyenShop">🔗 Repository</a>
+      <p align="center">
+        A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items,
+        add to cart, and track orders.
+      </p>
+<p align="center">
+  <b>Tech:</b> Laravel • PHP • MySQL • Livewire • Tailwind CSS • JavaScript • Composer • Node.js
+</p>
+      <a href="https://github.com/meowfu0/SiyenShop" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Click%20to%20open%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open SiyenSHOP Repository" />
+      </a>
     </td>
   </tr>
 </table>
 
 </div>
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=meowfu0&show_icons=true&theme=transparent&title_color=98d98e&text_color=c9d1d9&icon_color=98d98e&border_color=30363d" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowfu0&layout=compact&theme=transparent&title_color=98d98e&text_color=c9d1d9&border_color=30363d" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meowfu0&bg_color=0d1117&color=98d98e&line=2E8B57&point=b4e4b1&area=true&hide_border=true" width="100%" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=meowfu0&custom_title=meowfu0%27s%20Contribution%20Graph&bg_color=0d1117&color=98d98e&line=2E8B57&point=b4e4b1&area=true&hide_border=true"
+  alt="meowfu0's Contribution Graph"
+/>
 
 </div>
+
