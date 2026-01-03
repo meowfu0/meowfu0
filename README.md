@@ -129,11 +129,12 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 
 <div align="center">
 
+<!-- Row 1 (2 projects) -->
 <table width="100%">
   <tr>
+    <!-- e-LegTas -->
     <td width="50%" valign="top" align="center">
       <h3>🗺️ e-LegTas</h3>
-      <!-- ✅ bigger logo -->
       <img src="assets/elegtas-logo.png" width="180" alt="e-LegTas Logo" />
       <br/><br/>
       <p align="center">
@@ -141,27 +142,72 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
         <b>CDRRMO of Legazpi City, Albay</b>.
       </p>
       <p align="center">
-        <b>Tech:</b> React • TypeScript • Redux • Node.js • Express.js • PostgreSQL • Supabase • OpenStreetMap
+        <b>Tech:</b> React • TypeScript • Redux • Node.js • Express.js • PostgreSQL • Supabase • Flutter • OpenStreetMap
       </p>
       <a href="https://github.com/robby-deving/e-LegTas" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Click%20to%20open%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open e-LegTas Repository" />
+        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open e-LegTas Repository" />
       </a>
     </td>
+    <!-- SiyenSHOP -->
     <td width="50%" valign="top" align="center">
       <h3>🛒 SiyenSHOP</h3>
-      <!-- ✅ bigger logo -->  <br/><br/>
-      <img src="assets/siyenshop-logo.png" width="280" alt="SiyenSHOP Logo" />
-      <br/><br/>
+      <img src="assets/siyenshop-logo.png" width="220" alt="SiyenSHOP Logo" />
       <br/><br/>
       <p align="center">
         A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items,
         add to cart, and track orders.
       </p>
-<p align="center">
-  <b>Tech:</b> Laravel • PHP • MySQL • Livewire • Tailwind CSS • JavaScript • Composer • Node.js
-</p>
+      <p align="center">
+        <b>Tech:</b> Laravel • PHP • MySQL • Livewire • Tailwind CSS • JavaScript • Composer • Node.js
+      </p>
       <a href="https://github.com/meowfu0/SiyenShop" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Click%20to%20open%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open SiyenSHOP Repository" />
+        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open SiyenSHOP Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- Row 2 (2 projects) -->
+<table width="100%">
+  <tr>
+    <!-- AliTapTap -->
+    <td width="50%" valign="top" align="center">
+      <h3>📇 AliTapTap</h3>
+      <img src="assets/logo.svg" width="180" alt="AliTapTap Logo" />
+      <br/><br/>
+      <p align="center">
+        A mobile e-commerce app for customizing and purchasing NFC business cards for personal and professional use.
+      </p>
+      <p align="center">
+        <b>Live:</b>
+        <a href="https://ali-tap-tap.vercel.app" target="_blank" rel="noreferrer">ali-tap-tap.vercel.app</a>
+      </p>
+      <p align="center">
+        <b>Tech:</b> React Native • Expo • Node.js • Express • MongoDB • Socket.IO
+      </p>
+      <a href="https://github.com/robby-deving/AliTapTap" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open AliTapTap Repository" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://ali-tap-tap.vercel.app" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" />
+      </a>
+    </td>
+    <!-- Old Man and the Sea Learning Hub -->
+    <td width="50%" valign="top" align="center">
+      <h3>⛵ Old Man and the Sea – Learning Hub</h3>
+      <!-- ✅ requested: src=logo.png (place logo.png in your repo root OR adjust the path) -->
+      <img src="assets/logo.png" width="180" alt="Old Man and the Sea Logo" />
+      <br/><br/>
+      <p align="center">
+        A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea</b>
+        using cards, quizzes, and simple explanations to make the classic easier and more fun.
+      </p>
+      <p align="center">
+        <b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth
+      </p>
+      <a href="https://github.com/meowfu0/old-man-and-the-sea" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open Old Man and the Sea Repository" />
       </a>
     </td>
   </tr>
