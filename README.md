@@ -176,7 +176,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 <img src="assets/logo.png" height="140" alt="Old Man and the Sea Logo" />
 <p align="center">A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea.</b>
 <p align="center"><b>Live:</b> <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">old-man-and-the-sea.vercel.app</a></p>
-<p align="center"><b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth</p>
+<p align="center"><b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth</p> <br/>
 <p align="center">
 <a href="https://github.com/meowfu0/old-man-and-the-sea" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open Old Man and the Sea Repository" /></a>&nbsp;&nbsp;
 <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" /></a>
