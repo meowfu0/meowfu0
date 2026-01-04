@@ -174,7 +174,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 <td width="50%" valign="top" align="center">
 <h3>Old Man and the Sea – Learning Hub</h3>
 <img src="assets/logo.png" height="140" alt="Old Man and the Sea Logo" />
-<p align="center">A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea</b> using cards, quizzes, and simple explanations to make the classic easier and more fun.</p>
+<p align="center">A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea.</b>
 <p align="center"><b>Live:</b> <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">old-man-and-the-sea.vercel.app</a></p>
 <p align="center"><b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth</p>
 <p align="center">
