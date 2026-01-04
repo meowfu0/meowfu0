@@ -132,114 +132,58 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
 ---
 
 ## 🌟 Highlight Projects
-
 <div align="center">
-
-<!-- Row 1 (2 projects) -->
 <table width="100%">
-  <tr>
-    <!-- e-LegTas -->
-    <td width="50%" valign="top" align="center">
-      <h3>e-LegTas</h3>
-      <img src="assets/elegtas-logo.png" width="170" alt="e-LegTas Logo" />
-      <br/><br/>
-      <p align="center">
-        A GIS-based evacuation management system designed to support reporting and coordination for the
-        <b>CDRRMO of Legazpi City, Albay</b>.
-      </p>
-      <p align="center">
-        <b>Live:</b> <a href="https://www.e-legtas.tech/" target="_blank" rel="noreferrer">www.e-legtas.tech</a>
-      </p>
-      <p align="center">
-        <b>Tech:</b> React • TypeScript • Redux • Node.js • Express.js • PostgreSQL • Supabase • Flutter • OpenStreetMap
-      </p>
-      <a href="https://github.com/robby-deving/e-LegTas" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open e-LegTas Repository" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.e-legtas.tech/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" />
-      </a>
-    </td>
-    <!-- SiyenSHOP -->
-    <td width="50%" valign="top" align="center">
-      <h3>SiyenSHOP</h3>
-      <br/><br/>
-      <img src="assets/siyenshop-logo.png" width="229" alt="SiyenSHOP Logo" />
-      <br/><br/>
-      <br/><br/>
-      <p align="center">
-        A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items,
-        add to cart, and track orders.
-      </p>
-      <p align="center">
-        <b>Status:</b> Not deployed (local setup)
-      </p>
-      <p align="center">
-        <b>Tech:</b> Laravel • PHP • MySQL • Livewire • Tailwind CSS • JavaScript • Composer • Node.js
-      </p>
-      <a href="https://github.com/meowfu0/SiyenShop" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open SiyenSHOP Repository" />
-      </a>
-    </td>
-
-  </tr>
-</table>
-<br/>
-<!-- Row 2 (2 projects) -->
-<table width="100%">
-  <tr>
-    <!-- AliTapTap -->
-    <td width="50%" valign="top" align="center">
-      <h3>AliTapTap</h3>
-      <br/>
-      <img src="assets/logo.svg" width="120" alt="AliTapTap Logo" />
-      <br/><br/>
-      <p align="center">
-        A mobile e-commerce app for customizing and purchasing NFC business cards for personal and professional use.
-      </p>
-      <p align="center">
-        <b>Live:</b>
-        <a href="https://ali-tap-tap.vercel.app" target="_blank" rel="noreferrer">ali-tap-tap.vercel.app</a>
-      </p>
-      <p align="center">
-        <b>Tech:</b> React Native • Expo • Node.js • Express • MongoDB • Socket.IO
-      </p>
-      <a href="https://github.com/robby-deving/AliTapTap" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open AliTapTap Repository" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://ali-tap-tap.vercel.app" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" />
-      </a>
-    </td>
-    <!-- Old Man and the Sea Learning Hub -->
+<tr>
 <td width="50%" valign="top" align="center">
-  <h3>Old Man and the Sea – Learning Hub</h3>
-  <img src="assets/logo.png" width="180" alt="Old Man and the Sea Logo" />
-  <br/><br/>
-  <p align="center">
-    A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea</b>
-    using cards, quizzes, and simple explanations to make the classic easier and more fun.
-  </p>
-  <p align="center">
-    <b>Live:</b> <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">old-man-and-the-sea.vercel.app</a>
-  </p>
-  <p align="center">
-    <b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth
-  </p>
-  <a href="https://github.com/meowfu0/old-man-and-the-sea" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open Old Man and the Sea Repository" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" />
-  </a>
+<h3>e-LegTas</h3>
+<img src="assets/elegtas-logo.png" height="140" alt="e-LegTas Logo" />
+<p align="center">A GIS-based evacuation management system designed to support reporting and coordination for the <b>CDRRMO of Legazpi City, Albay</b>.</p>
+<p align="center"><b>Live:</b> <a href="https://www.e-legtas.tech/" target="_blank" rel="noreferrer">www.e-legtas.tech</a></p>
+<p align="center"><b>Tech:</b> React • TypeScript • Redux • Node.js • Express.js • PostgreSQL • Supabase • Flutter • OpenStreetMap</p>
+<p align="center">
+<a href="https://github.com/robby-deving/e-LegTas" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open e-LegTas Repository" /></a>&nbsp;&nbsp;
+<a href="https://www.e-legtas.tech/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" /></a>
+</p>
 </td>
-
-  </tr>
+<td width="50%" valign="top" align="center">
+<h3>SiyenSHOP</h3>
+<img src="assets/siyenshop-logo.png" height="95" alt="SiyenSHOP Logo" />
+<br/><br/><br/>
+<p align="center">A web-based e-commerce platform for BU College of Science merchandise shops. Users can browse items, add to cart, and track orders.</p>
+<p align="center"><b>Status:</b> Not deployed (local setup)</p>
+<p align="center"><b>Tech:</b> Laravel • PHP • MySQL • Livewire • Tailwind CSS • JavaScript • Composer • Node.js</p>
+<p align="center">
+<a href="https://github.com/meowfu0/SiyenShop" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open SiyenSHOP Repository" /></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NOT%20DEPLOYED-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Not Deployed" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<h3>AliTapTap</h3>
+<img src="assets/logo.svg" height="140" alt="AliTapTap Logo" />
+<p align="center">A mobile e-commerce app for customizing and purchasing NFC business cards for personal and professional use.</p>
+<p align="center"><b>Live:</b> <a href="https://ali-tap-tap.vercel.app" target="_blank" rel="noreferrer">ali-tap-tap.vercel.app</a></p>
+<p align="center"><b>Tech:</b> React Native • Expo • Node.js • Express • MongoDB • Socket.IO</p>
+<p align="center">
+<a href="https://github.com/robby-deving/AliTapTap" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open AliTapTap Repository" /></a>&nbsp;&nbsp;
+<a href="https://ali-tap-tap.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" /></a>
+</p>
+</td>
+<td width="50%" valign="top" align="center">
+<h3>Old Man and the Sea – Learning Hub</h3>
+<img src="assets/logo.png" height="140" alt="Old Man and the Sea Logo" />
+<p align="center">A kid-friendly, underwater-themed learning hub for Ernest Hemingway’s <b>The Old Man and the Sea</b> using cards, quizzes, and simple explanations to make the classic easier and more fun.</p>
+<p align="center"><b>Live:</b> <a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer">old-man-and-the-sea.vercel.app</a></p>
+<p align="center"><b>Tech:</b> React • TypeScript • Vite • Tailwind CSS • Supabase Auth</p>
+<p align="center">
+<a href="https://github.com/meowfu0/old-man-and-the-sea" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=98d98e" alt="Open Old Man and the Sea Repository" /></a>&nbsp;&nbsp;
+<a href="https://old-man-and-the-sea.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=98d98e" alt="Open Live Demo" /></a>
+</p>
+</td>
+</tr>
 </table>
-
 </div>
 
 
