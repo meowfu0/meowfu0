@@ -140,7 +140,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
   <tr>
     <!-- e-LegTas -->
     <td width="50%" valign="top" align="center">
-      <h3>🗺️ e-LegTas</h3>
+      <h3>e-LegTas</h3>
       <img src="assets/elegtas-logo.png" width="170" alt="e-LegTas Logo" />
       <br/><br/>
       <p align="center">
@@ -163,7 +163,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
     </td>
     <!-- SiyenSHOP -->
     <td width="50%" valign="top" align="center">
-      <h3>🛒 SiyenSHOP</h3>
+      <h3>SiyenSHOP</h3>
       <br/><br/>
       <img src="assets/siyenshop-logo.png" width="229" alt="SiyenSHOP Logo" />
       <br/><br/>
@@ -191,7 +191,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
   <tr>
     <!-- AliTapTap -->
     <td width="50%" valign="top" align="center">
-      <h3>📇 AliTapTap</h3>
+      <h3>AliTapTap</h3>
       <br/>
       <img src="assets/logo.svg" width="120" alt="AliTapTap Logo" />
       <br/><br/>
@@ -215,7 +215,7 @@ I enjoy turning ideas into **simple, reliable solutions** using modern tools, an
     </td>
     <!-- Old Man and the Sea Learning Hub -->
 <td width="50%" valign="top" align="center">
-  <h3>⛵ Old Man and the Sea – Learning Hub</h3>
+  <h3>Old Man and the Sea – Learning Hub</h3>
   <img src="assets/logo.png" width="180" alt="Old Man and the Sea Logo" />
   <br/><br/>
   <p align="center">
