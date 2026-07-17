@@ -35,7 +35,7 @@ My workflow usually starts with designing the database, building and testing API
 I enjoy building reliable digital solutions that improve real workflows, and I’m open to opportunities where I can contribute, keep learning, and build useful software with a collaborative team.
 
 
-**📍 Location:** Malinao, Albay • Legazpi City, Albay, Philippines  
+**📍 Location:** Legazpi City, Albay, Philippines  
 **🎯 Interests:** Backend Development • API Development • Database Design • Frontend Development • Full-Stack Web Development • Real-Time Systems
 
 ---
