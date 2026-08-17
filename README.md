@@ -9,11 +9,19 @@
 <img src="https://komarev.com/ghpvc/?username=meowfu0&style=for-the-badge&label=PROFILE+VIEWS&color=2E8B57" alt="Profile views" />
 
 <br/>
+
+<a href="https://vicente-bercasio-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 <a href="mailto:vicentetobio00@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-vicentetobio00%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
 <a href="https://www.linkedin.com/in/vicente-bercasio-ii-88b66028b/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Bercasio%20II-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
 
 ---
